@@ -10,7 +10,7 @@ rm -rf CMakeCache.txt CMakeFiles/ ## Eğer başka bir bilgisayardan kalma cache 
 run.sh çalıştırılırken kütüphane hataları almanız durumunda sudo apt install <kütüphane adı> şeklinde kurulumları halledebilirsiniz. Eğer kütüphane bulunamadı diyorsa ChatGPT ye hatayı atarsanız hangi kütüphaneye ihtiyacınız olduğunu size söyleyecektir.
 
 ## Rapor
-Rapor.pdf içerisinde gerekli rapor ve detaylar bulunmaktadır. ([text](Rapor.pdf))
+Rapor.pdf içerisinde gerekli rapor ve detaylar bulunmaktadır. ([Rapor Dosyası](Rapor.pdf))
 
 ## Video
 1 dakikalık tanıtım videosuna aşağıdaki linkten ulaşabilirsiniz:
