@@ -20,12 +20,12 @@ https://www.youtube.com/watch?v=dbbXdxtLa98
 
 Serbest Kamera Modu (Default):
 - WASD ile kamera hareketleri
-- Maus ile dönme hareketleri
+- Fare ile dönme hareketleri
 - F ile FPS moda geçiş
 - ESC ile kapama
 
 FPS Modu:
-- Maus ile sağa ve sola bakış
+- Fare ile sağa ve sola bakış
 - F ile Serbest Moda Geçiş
 - ESC ile kapama
 
