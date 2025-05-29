@@ -1,2 +1,0 @@
-# BilgisayarGrafikleriProje2
-Test

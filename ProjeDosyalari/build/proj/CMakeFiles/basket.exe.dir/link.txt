@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/basket.exe.dir/link.d CMakeFiles/basket.exe.dir/main.cpp.o -o basket.exe  ../external/glfw-3.3.3/src/libglfw3.a ../external/glad/libglad.a -ldl /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so
